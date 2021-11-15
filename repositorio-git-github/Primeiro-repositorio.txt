@@ -1,0 +1,13 @@
+Desafio da Dio de criar um repositório no github utilizando o git bash.
+
+Passo 1 : Criar um NOVO repositório no Github, adicionando um README(opcional).
+
+Passo 2 : Clonar o Repositório e colar no Git bash, utlizando o comando 'git clone'.
+
+Passo 3 : Adicionar ou modificar os arquivos do reposirório que clonou utilizando o comando 'git add .'.
+
+Passo 4 : Verificar se todos os arquivos estão presentes utilizando o comando 'git status'.
+
+Passo 5 : Fazer um commit dos aquivos para segurança utilizando o comando 'git commit -m "mensagem de explicação sobre o que esse commit adicionou ou modificou."'
+
+Passo 6 : Adionar os arquivos da maquina local para o Github utilizando o comando 'git push origin main'
